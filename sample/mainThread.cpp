@@ -1,6 +1,6 @@
 ﻿#include <opencv2/opencv.hpp>
 #include <iostream>  
-#include "nvFaceSkinAnalyze.h"
+#include "bvFaceSkinAnalyze.h"
 
 using namespace cv;
 using namespace std;
